@@ -1,0 +1,47 @@
+https://github.com/VuongPhan9/-MVUONG-.github.io.git
+cd <-MVUONG-.github.io>
+ background-size: 100% 100%;
+    }
+    </style>
+    </head>
+    <body>
+
+
+<h1>Chào mừng đến với trang web của nhóm 13!</h1>
+<p>GIỚI THIỆU TRƯỜNG ĐẠI HỌC NÔNG L M TP.HCM</p>
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu thành viên</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 100px;
+            min-height: 100px;
+            border-bottom: #77A6F7 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+git add .
+git commit -m "Initial commit"
+git push origin main
